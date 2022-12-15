@@ -1,0 +1,71 @@
+Bucles I FOR
+1) Explicá con tus palabras qué función cumple el ciclo FOR.
+2) Explicá la estructura del for. En el siguiente gráfico 
+for( -1-;-2-;-3-){ -4- }
+exponé qué significa cada uno de los puntos 1, 2, 3 y 4.
+3) Mostrar el listado de números comprendidos entre el 1 y el 75
+4) Mostrar el listado de números comprendidos entre el 75 y el 1
+-----------------------------------------------
+5) Mostrar el listado de números pares comprendidos entre el 0 y el 50.
+6) Generá la siguiente salida por consola:
+1
+12
+123
+1234
+12345
+1234
+123
+12
+1
+7) Mostrar los números múltiplos de 4 entre el 1 y el 45.
+8) Mostrar el listado de números comprendidos entre el 1 y el 75 excepto los múltiplos de 5.
+9) Mostrar el listado de números comprendidos entre el 1 y el 500, que indique cuáles son 
+múltiplos de 4 y de 9, además que cada 5 líneas muestre una línea horizontal. Por ejemplo :
+
+1
+2
+3
+4 (Múltiplo de 4)
+5
+- — — — — — — — — — — — —  — — — — — — — — -
+6
+7
+8 (Múltiplo de 4)
+9 (Múltiplo de 9)
+10 - — — — — — — — — — — — —  — — — — — — — — -
+(...)
+20(Múltiplo de 4)
+--------------------------------------------
+(...)
+360(Múltiplo de 4)(Múltiplo de 9)
+--------------------------------------------
+361
+(...)
+10) Ingresa dos valores numéricos. Si son iguales saldrá por consola "Los números son iguales" y no se hará otra cosa.
+En el caso que haya uno menor al otro (no importa en qué órden se ingresaron, si el mas grande primero y el mas 
+chico el segundo; o viceversa). Se mostrarán los números comprendidos entre el mas chico y el más grande. 
+11) Modificá el punto anterior para que, además de ingresar los dos valores se ingresaría un tercer valor.
+Éste puede ser 1 y se mostrarán los números entre el mas chico y el mas grande; si es 0, se mostrarán
+entre el mas grande y el mas chico.
+12) Desarrollá un sistema que muestre la siguiente salida:
+Nivel 0
+Piso 1
+Piso 2
+Piso 3
+Piso 4
+Nivel 1
+Piso 5
+Piso 6
+Piso 7
+Piso 8
+Nivel 2
+Piso 9
+Piso 10
+Piso 11
+Piso 12
+Nivel 3
+...
+Hasta el nivel 5
+13) Se cargaran 20 montos de facturas. Mostrá el valor de la factura mas alta.
+14) Se cargaran 20 montos de facturas. Mostrá el valor de la factura mas alta y el número de la factura.
+NOTA: El número de la factura es el índice del ingreso. 
